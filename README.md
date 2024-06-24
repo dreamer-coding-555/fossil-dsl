@@ -45,7 +45,7 @@ Before getting started, make sure you have the following installed:
 
 1. **Clone the Repository**:
    ```zsh
-   git clone https://github.com/dreamer-coding-555/meson-app-c.git
+   git clone https://github.com/dreamer-coding-555/fossil-dsl.git
    cd meson-app-c
    ```
 
